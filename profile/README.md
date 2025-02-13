@@ -5,9 +5,9 @@ At Greatminds Inc., we empower businesses to unlock the full potential of AI thr
 Harness the power of **AI technologies** to enhance our customers' business processes and address operational challenges with **tailored solutions**, delivering **measurable financial results**.
 
 ### What We Do
-- Consulting: we collaborate with our customersclients to pinpoint the AI opportunities that will drive the most value.
+- Consulting: we collaborate with our customers to pinpoint the AI opportunities that will drive the most value.
 
-- Implementation: We take a hands-on approach to developing and deploying custom AI solutions tailored to each client's specific needs.
+- Implementation: We take a hands-on approach to developing and deploying custom AI solutions tailored to each customers' specific needs.
 
 
 ### Our Background
