@@ -1,4 +1,4 @@
-## Welcome to sapiumai. 👋 
+## Welcome to sapium.ai 👋 
 At sapium.ai, we empower businesses to unlock the full potential of AI through our specialized consulting and implementation services.
 
 ### Our Mission
